@@ -24,7 +24,7 @@ No warranties are given express or implied. (refer to license here : https://www
 
 ## Caution 
 This is the ALPHA release of files, there was still quite a lot of manual work from these files to getting them working in my rig (it wasn't a straight bolt on exercise).
-This is not intended to be a ready to go DIY kit. Please check the issues log and make sure you've joined my discord so you're 
+This is not intended to be a ready to go DIY kit. Please check the issues log and make sure you've joined my discord https://discord.gg/ZVkz2tC so you're 
 fully prepared before embarking on build one of these. It's a lot of money to get it wrong. This has only been tested for someone 6ft high, 75kg. Anatomy will play a big part how much you need to modify the design. 
 
 ## The other Caution  
