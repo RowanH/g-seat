@@ -25,6 +25,14 @@ fully prepared before embarking on build one of these. It's a lot of money to ge
 This could hurt you, remove a finger, or cause you a nasty electric shock. You've been warned. 
 
 
+## Cheers ! 
+
+If you think it's cool and want to say thanks then paypal a donation for beer money or fun tools in the shed to gseatworkshop@gmail.com
+
+## Bill of Materials
+
+Coming soon 
+
 ## Copyright / License
 2020 Rowan Hick (@SteelyEyedMissleman, or @Steely for short) 
 Please read my intention/statement here 
@@ -34,6 +42,3 @@ And refer to the full version of license wording here :
 
 The license is extremely permissive, it's main requirements are that (a) you've got to include the same license in any derivative design (b) that you also have to share your derivative design(s) and (c) you've got to attribute (Credit) my original design. Simple. 
 
-## Cheers ! 
-
-If you think it's cool and want to say thanks then paypal a donation for beer money or fun tools in the shed to gseatworkshop@gmail.com
