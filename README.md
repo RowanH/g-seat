@@ -50,15 +50,13 @@ The license is extremely permissive, it's main requirements are that (a) you've 
 
 ### Attribution 
 
-You must say "@Steely's G-Seat" and include a link to https://www.rowanhick.com/motion-simulator
+You must say "@Steely's G-Seat" and include a link to https://www.rowanhick.com/motion-simulator that's an express requirement of the license. 
 
 So for instance if you were to sell this commercially (brave, brave person) on your product page you must say 
 
-.... your product page detail "uses @Steely's G-Seat design https://www.rowanhick.com/motion-simulator" 
+.... your product copy .... "uses @Steely's G-Seat design https://www.rowanhick.com/motion-simulator" 
 
-You *can't* pass this off as your own design without credit.
-
-However it can't be worderd that I endorse your service/product/company.  
+You *can't* pass this off as your own design without credit. You also must include the license verbatim.  
 
 ### Derivative works 
 
