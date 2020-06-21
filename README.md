@@ -11,7 +11,7 @@ Review my blog articles up above in particular this one :
 https://www.rowanhick.com/2020/06/10/steelys-g-seat-milestone-reached-all-functions-working
 
 ## Setting expectations
-I really, really, don't want anyone thinking this is going to be a cakewalk - or is absolutely 100% proven, going off and building one, then having issues - and blame me because they feel like they've lit $3000-4500NZD on fire. There's a lot of dollars in components and so far only I've built one. I've documented what I know to date the issues are here https://github.com/RowanH/g-seat/issues
+I really, really, don't want anyone thinking this is going to be a cakewalk - or is absolutely 100% proven, going off and building one, then having issues - and blame me because they feel like they've lit $4000-5000NZD on fire. There's a lot of dollars in components and so far only I've built one. I've documented what I know to date the issues are here https://github.com/RowanH/g-seat/issues
 
 No warranties are given express or implied. (refer to license here : https://www.rowanhick.com/2020/03/05/steelys-g-seat-copyright-open-source-license) 
 
