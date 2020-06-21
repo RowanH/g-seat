@@ -11,7 +11,7 @@ I really, really, don't want anyone thinking this is going to be a cakewalk - or
 
 
 ## Caution 
-This is the ALPHA release of files, there was still quite a lot of work (and still some to go) to get them working on my rig. 
+This is the ALPHA release of files, there was still quite a lot of manual work (and still some to go) to get them working on my rig.
 This is not intended to be a ready to go DIY kit. Please check the issues log and make sure you've joined my discord so you're 
 fully prepared before embarking on build one of these. It's a lot of money to get it wrong. This has only beent tested for someone 6ft high, 75kg. Anatomy will play a big part how much you need to modify the design. 
 
@@ -24,6 +24,7 @@ This could hurt you, remove a finger, or cause you a nasty electric shock. You'v
 These files are free to use and subject to the terms of the license here 
 https://www.rowanhick.com/2020/03/05/steelys-g-seat-copyright-open-source-license
 
+The license is extremely permissive, it's main requirements are that (a) you've got to include the same license in any derivative design (b) that you also have to share your derivative design(s) and (c) you've got to attribute (Credit) my original design. Simple. 
 
 ## Cheers ! 
 
