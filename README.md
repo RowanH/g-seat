@@ -1,8 +1,14 @@
 # @steely's G-Seat
 
 ## What is this about ?
-
+![G-Seat Diagram](https://raw.githubusercontent.com/RowanH/g-seat/alpha/aluminium-panels/IsoView.JPG)
 Please refer to https://www.rowanhick.com/motion-simulator
+
+A DIY Open source design for a high performance 'G-Seat' that provides motion cueing for simulators. Turn left and the right hand panels push against you, accelerate and both back panels push against you. 
+
+Comprised of 8 folded aluminium brackets + panels, mechanical components and 4 AC Servos 
+
+Needs motion control software + controllers to work - I use and recommend SimFeedback https://opensfx.com 
 
 ## How do I build it 
 There will be actual build guides when I've cleaned all the files up and have a bit more time. At this point you really need to know what you're doing so I'm intentionally setting a "barrier for entry" by being suitably light on detail.
@@ -38,7 +44,26 @@ Coming soon
 Please read my intention/statement here 
 https://www.rowanhick.com/2020/03/05/steelys-g-seat-copyright-open-source-license 
 
-And refer to the full version of license wording here :
+And refer to the full version of license wording here https://github.com/RowanH/g-seat/blob/alpha/LICENSE.md
 
-The license is extremely permissive, it's main requirements are that (a) you've got to include the same license in any derivative design (b) that you also have to share your derivative design(s) and (c) you've got to attribute (Credit) my original design. Simple. 
+The license is extremely permissive, it's main requirements are that (a) you've got to include the same license in any derivative design (b) that you also have to share your derivative design(s) and (c) you've got to attribute (Credit) my original design regardless of where you use it. Simple. 
+
+### Attribution 
+
+You must say "@Steely's G-Seat" and include a link to https://www.rowanhick.com/motion-simulator
+
+So for instance if you were to sell this commercially (brave, brave person) on your product page you must say 
+
+.... your product page detail "uses @Steely's G-Seat design https://www.rowanhick.com/motion-simulator" 
+
+You *can't* pass this off as your own design without credit.
+
+However it can't be worderd that I endorse your service/product/company.  
+
+### Derivative works 
+
+If you modify the design in any form you *must* include this same license and you *must* provide open source files. 
+
+So you can't take the design, tweak something, call it your own and not provide files. 
+
 
